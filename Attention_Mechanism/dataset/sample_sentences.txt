@@ -1,0 +1,5 @@
+I love AI.
+AI helps people learn.
+I am learning the attention mechanism.
+Attention helps language models understand relationships between words.
+Transformers use attention mechanisms to process information and generate meaningful language.
